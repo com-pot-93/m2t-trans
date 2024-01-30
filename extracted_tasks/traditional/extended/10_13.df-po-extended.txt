@@ -1,0 +1,8 @@
+{
+    "amount": 3,
+    "tasks": [
+        "1. \"INQ transmits transaction data request\"",
+        "2. \"IP checks the request\"",
+        "3. \"IP answers the question\""
+    ]
+}

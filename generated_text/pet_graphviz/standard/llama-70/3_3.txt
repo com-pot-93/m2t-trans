@@ -1,0 +1,18 @@
+The process starts with a claims officer registering a claim. The claims officer then examines the claim and writes a settlement recommendation. The senior claims officer checks the recommendation and marks the claim. The claim handling process proceeds, and the senior claims officer sends the recommendation back to the claims officer. If the recommendation is not okay, the process goes back to the claims officer, who makes changes and resubmits the recommendation. If the recommendation is okay, the process ends.
+
+Here's a more detailed description of the process:
+
+    Claims officer registers claim.
+    Claims officer examines claim.
+    Claims officer writes settlement recommendation.
+    Senior claims officer checks recommendation.
+    Senior claims officer marks the claim.
+    Claim handling process proceeds.
+    Senior claims officer sends recommendation back.
+    Claims officer resubmits recommendation if not ok.
+    Process ends if recommendation is ok.
+
+Note: There are two possible paths after step 7:
+
+    Segment 1: The claim handling process proceeds, and the senior claims officer sends
+

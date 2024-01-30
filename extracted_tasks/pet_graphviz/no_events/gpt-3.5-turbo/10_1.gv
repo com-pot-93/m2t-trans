@@ -1,0 +1,15 @@
+{
+    "amount": 10,
+    "tasks": [
+        "1. MPON sends a dismissal",
+        "2. MPOO reviews the dismissal",
+        "3. Decision point reached",
+        "4. MPOO opposes the dismissal",
+        "5. Second decision point reached",
+        "6. Process ends or continues",
+        "7. MPOO confirms the dismissal",
+        "8. Process continues",
+        "9. Result is confirmed",
+        "10. Process ends"
+    ]
+}

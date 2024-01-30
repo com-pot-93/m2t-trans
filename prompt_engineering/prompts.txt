@@ -1,0 +1,11 @@
+Prompts for M2T transformation:
+Prompt 1: "Read this <representation_type> model: <model>. Convert this model to a textual process description using simple natural language. Return only text summary"
+Prompt 2: "Read this <representation_type> model: <model>. Convert this model to a textual process description using simple natural language without mentioning types of the model elements (i.e., task, startevent, endevent,gateway, etc.). Return only text summary" 
+, where
+<representation_type>: string, one of the selected graphical representation ["mermaid.js", "graphviz"];
+<model>: string, bpmn model written in one of the selected graphical representations;
+  
+Prompt for task extraction:
+"Considering following process description <process_description>. Return the list of activities (each 3-5 words maximum) one by one without any additional information."
+, where 
+<process_description>: string, textual description of the process. 

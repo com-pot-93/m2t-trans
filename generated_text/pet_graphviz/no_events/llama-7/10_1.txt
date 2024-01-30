@@ -1,0 +1,17 @@
+The process starts with an event called "start_1," which is represented by a circle shape in the diagram. From here, there are several events and transitions that occur:
+
+    The first transition is from "start_1" to "MPON sends the dismissal to the MPOO." This is represented by a rectangle shape in the diagram.
+    After sending the dismissal, the MPOO reviews it, as indicated by a transition from "MPON sends the dismissal to the MPOO" to "MPOO reviews the dismissal."
+    Next, the MPOO makes a decision regarding the dismissal, either opposing or confirming it. There are two transitions for each option: "MPOO opposes the dismissal of MPON" and "MPOO confirms the dismissal of the MPON." These transitions lead back to "MPOO reviews the dismissal."
+    Once the MPOO has made its decision, the process moves on to the next step, where the megastore receives the news. This is represented by a transition from "MPOO confirms the dismissal of the MPON" to "meg_1."
+    Finally, the process ends at "end_1."
+
+In summary, the process described by the GraphViz model involves the following steps:
+
+    An event called "start_1" occurs, representing the beginning of the process.
+    The MPOO receives a dismissal request from MPON.
+    The MPOO reviews the dismissal request.
+    The MPOO decides whether to oppose or confirm the dismissal.
+    If the MPOO confirms the dismissal, the megastore receives the news.
+    The process ends at "end_1."
+

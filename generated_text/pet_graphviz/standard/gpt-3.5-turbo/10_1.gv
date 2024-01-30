@@ -1,0 +1,1 @@
+The process starts with the MPON sending a dismissal to the MPOO. The MPOO then reviews the dismissal. After reviewing, the MPOO can either oppose or confirm the dismissal of the MPON. If the MPOO opposes the dismissal, it goes to the "meg_1" step. If the MPOO confirms the dismissal, it also goes to the "meg_1" step. Finally, the process ends with the "meg_1" step.

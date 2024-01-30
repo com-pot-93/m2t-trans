@@ -1,0 +1,1 @@
+The Managerial Staff Performance Evaluation Committee (MSPN) sends a dismissal request to the Managerial Staff Performance Oversight Officer (MSPO). The MSPO reviews the request and decides whether to reject or confirm the dismissal. If rejected, the MSPO sends the request back to the MSPN. If confirmed, the MSPO sends the confirmation to the MSPN. Finally, the process ends.

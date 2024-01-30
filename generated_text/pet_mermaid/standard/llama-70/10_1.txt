@@ -1,0 +1,1 @@
+The MPON sends a dismissal, which is then reviewed by the MPOO. The MPOO can either oppose or confirm the dismissal. If opposed, the process ends. If confirmed, the MPOO confirms the dismissal and the process ends.

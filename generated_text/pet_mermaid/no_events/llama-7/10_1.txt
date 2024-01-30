@@ -1,0 +1,1 @@
+The MPON sends a dismissal notice to the MPOO (step 1). The MPOO then reviews the dismissal (step 2). If the MPOO opposes the dismissal, the process ends (step 3); otherwise, the MPOO confirms the dismissal (step 6). Once the dismissal is confirmed, the process ends (step 7).

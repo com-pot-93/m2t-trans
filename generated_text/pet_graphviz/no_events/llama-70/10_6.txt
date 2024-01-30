@@ -1,0 +1,11 @@
+The MSPN sends a dismissal to the MSPO for review. The MSPO reviews the dismissal and can either reject or confirm it. If the MSPO rejects the dismissal, the process ends. If the MSPO confirms the dismissal, the process continues to the end.
+
+Here's a more detailed description of the process:
+
+    The MSPN sends a dismissal to the MSPO for review.
+    The MSPO reviews the dismissal.
+    The MSPO can either reject or confirm the dismissal.
+    If the MSPO rejects the dismissal, the process ends.
+    If the MSPO confirms the dismissal, the process continues to the end.
+    The process ends.
+

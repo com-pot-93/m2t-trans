@@ -1,0 +1,3 @@
+When a guest makes a call, the manager takes down their order (step 1). Then, the manager submits an order ticket to the kitchen (step 3) and gives instructions to the sommelier (step 4). After that, the manager assigns the order to the waiter (step 5).
+
+In parallel, the kitchen and sommelier work on preparing the food and drinks (steps 6-9). Once the waiter has prepared the cart, they deliver it to the guest (step 10). Depending on whether there are more orders to attend to, the waiter may either bill the guest immediately (step 13) or wait until all orders are ready (step 12). Once the waiter has completed their duties, the process ends (step 16).

@@ -1,0 +1,11 @@
+The MPON sends the dismissal to the MPOO for review. The MPOO reviews the dismissal and can either oppose or confirm it. If the MPOO opposes the dismissal, the process ends. If the MPOO confirms the dismissal, the process continues to the end.
+
+Here's a more detailed description of the process:
+
+    The MPON sends the dismissal to the MPOO for review.
+    The MPOO reviews the dismissal.
+    The MPOO can either oppose or confirm the dismissal.
+    If the MPOO opposes the dismissal, the process ends.
+    If the MPOO confirms the dismissal, the process continues to the end.
+    The process ends.
+

@@ -1,0 +1,16 @@
+{
+    "amount": 11,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CR&S staff checks computer",
+        "3. Repair cost calculation provided",
+        "4. Computer is repaired",
+        "5. Process ends (unrepairable damage)",
+        "6. Repaired computer returned to customer",
+        "7. Error detection during repair",
+        "8. Attempt to fix detected error",
+        "9. Finish the repair",
+        "10. Repair is considered complete",
+        "11. Process ends (repair complete)"
+    ]
+}

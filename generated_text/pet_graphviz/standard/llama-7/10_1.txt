@@ -1,0 +1,18 @@
+Process Description: Dismissal of an Employee
+
+The process begins when the manager (MPON) sends a dismissal letter to the personnel office (MPOO) (Step 1). Then, the MPOO reviews the dismissal letter (Step 2). If the MPOO opposes the dismissal, the process ends (Step 3). If the MPOO confirms the dismissal, the process continues to Step 4, where the employee is formally dismissed.
+
+Here's a breakdown of each step in simpler terms:
+
+    Manager sends dismissal letter to personnel office.
+    Personnel office reviews dismissal letter.
+    Personnel office opposes dismissal (ends process).
+    Personnel office confirms dismissal (formally terminates employment).
+
+Text Summary:
+
+    Manager sends dismissal letter to personnel office
+    Personnel office reviews dismissal letter
+    Personnel office may oppose dismissal (ends process)
+    Personnel office confirms dismissal (formally terminates employment)
+

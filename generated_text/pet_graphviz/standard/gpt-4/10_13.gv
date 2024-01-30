@@ -1,0 +1,1 @@
+The process begins at the start point. The first task is for INQ to transmit the transaction data request. Once this task is completed, the process moves to the next task where IP checks the request. After the request has been checked, the process proceeds to the third task where IP answers the question. Once the question has been answered, the process reaches its end point.

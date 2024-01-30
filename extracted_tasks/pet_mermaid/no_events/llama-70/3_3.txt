@@ -1,0 +1,17 @@
+{
+    "amount": 12,
+    "tasks": [
+        "1. Register claim",
+        "2. Examine claim",
+        "3. Write settlement recommendation",
+        "4. Send recommendation to senior officer",
+        "5. Senior officer reviews recommendation",
+        "6. Approve or reject recommendation",
+        "7. Mark claim as \"ok\" or \"nok\"",
+        "8. Proceed with claim handling",
+        "9. Send recommendation back for revision",
+        "10. Make revisions to recommendation",
+        "11. Resubmit revised recommendation",
+        "12. End process"
+    ]
+}

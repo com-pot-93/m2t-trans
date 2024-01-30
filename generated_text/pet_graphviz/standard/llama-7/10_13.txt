@@ -1,0 +1,7 @@
+The process starts with an initial step, where a task called "Start 1" (labelled as "") is encountered. This is followed by three sub-steps:
+
+    INQ transmits the transaction data request (labelled as "Task 1").
+    IP checks the request (labelled as "Task 2").
+    IP answers the question (labelled as "Task 3").
+
+These tasks are connected in a linear sequence, with arrows indicating the order in which they should be performed. The process ends at the final step, labeled as "End 1".

@@ -1,0 +1,17 @@
+{
+    "amount": 12,
+    "tasks": [
+        "1. Guest places order",
+        "2. Manager records order",
+        "3. Manager submits order ticket",
+        "4. Manager assigns order",
+        "5. Kitchen prepares order",
+        "6. Sommelier prepares drinks",
+        "7. Waiter readies cart",
+        "8. Waiter delivers order",
+        "9. Waiter returns to station",
+        "10. Waiter handles billing",
+        "11. Waiter debits account",
+        "12. Waiter prepares next order"
+    ]
+}

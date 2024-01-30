@@ -1,0 +1,1 @@
+The process starts when an employee submits a vacation request, which is then reviewed by their supervisor. If approved, the request is registered and a notification is generated. The HR department then completes its management procedures, after which the process ends. If the request is not approved, the employee receives a return application and a notification is generated.

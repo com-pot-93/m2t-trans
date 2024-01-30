@@ -1,0 +1,16 @@
+{
+    "amount": 11,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CRS checks computer issues",
+        "3. CRS provides repair estimate",
+        "4. Customer takes computer home (minor issues)",
+        "5. CRS provides detailed repair plan",
+        "6. Customer approves repair plan",
+        "7. CRS performs hardware repairs",
+        "8. CRS configures software",
+        "9. CRS checks software functioning",
+        "10. CRS tests entire system",
+        "11. CRS fixes detected errors."
+    ]
+}

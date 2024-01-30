@@ -1,0 +1,12 @@
+An employee submits a vacation request, which is registered and reviewed by their supervisor. If the supervisor approves the request, the application is returned to the employee, and a notification is generated. If the supervisor does not approve the request, the application is returned to the employee. The HR department completes the management procedures, and the process ends.
+
+Here's a more detailed description of the process:
+
+    An employee submits a vacation request.
+    The request is registered and reviewed by the supervisor.
+    If the supervisor approves the request, the application is returned to the employee.
+    A notification is generated.
+    If the supervisor does not approve the request, the application is returned to the employee.
+    The HR department completes the management procedures.
+    The process ends.
+

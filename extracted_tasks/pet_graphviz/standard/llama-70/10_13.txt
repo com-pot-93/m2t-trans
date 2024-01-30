@@ -1,0 +1,9 @@
+{
+    "amount": 4,
+    "tasks": [
+        "1. INQ transmits request",
+        "2. IP checks request",
+        "3. IP answers question",
+        "4. Answer sent to end_1"
+    ]
+}

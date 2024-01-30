@@ -1,0 +1,21 @@
+{
+    "amount": 16,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CRS checks the defect",
+        "3. CRS provides repair cost",
+        "4. Customer accepts or rejects cost",
+        "5. Customer takes computer home",
+        "6. Error detection at home",
+        "7. Return to CRS if error",
+        "8. CRS checks hardware and software",
+        "9. Hardware repair if needed",
+        "10. Software configuration if needed",
+        "11. System functionality testing",
+        "12. Error detection during testing",
+        "13. Return to CRS if error",
+        "14. Repair completion",
+        "15. Customer collects computer",
+        "16. Process ends."
+    ]
+}

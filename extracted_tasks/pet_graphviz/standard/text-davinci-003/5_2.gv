@@ -1,0 +1,14 @@
+{
+    "amount": 9,
+    "tasks": [
+        "1. Employee submits vacation request",
+        "2. Request registration",
+        "3. Supervisor reviews request",
+        "4. Supervisor approves or disapproves",
+        "5. Generate notification (if approved)",
+        "6. Send notification to HR",
+        "7. HR completes management procedures",
+        "8. Return application (if disapproved)",
+        "9. Process ends"
+    ]
+}

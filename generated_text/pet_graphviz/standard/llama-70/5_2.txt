@@ -1,0 +1,17 @@
+The process starts with an employee submitting a vacation request. The supervisor reviews the request and then approves it. The request is then registered, and a notification is generated. The HR department completes the management procedures, and the process ends.
+
+Here's a more detailed description of the process:
+
+    Employee submits vacation request.
+    Supervisor reviews request.
+    Supervisor approves request.
+    Request is registered.
+    Notification is generated.
+    HR completes management procedures.
+    Process ends.
+
+Note: There are two possible paths after step 4:
+
+    Segment 1: Return application (not approved)
+    Segment 2: Generate notification (approved)
+

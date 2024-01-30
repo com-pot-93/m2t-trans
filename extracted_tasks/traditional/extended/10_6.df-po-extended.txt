@@ -1,0 +1,9 @@
+{
+    "amount": 4,
+    "tasks": [
+        "1. MSPN sends dismissal",
+        "2. MSPO reviews the dismissal",
+        "3. MSPO rejects the dismissal",
+        "4. MSPO confirms the dismissal"
+    ]
+}

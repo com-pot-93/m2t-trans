@@ -1,0 +1,9 @@
+The process starts when a customer brings a defective computer to the CRS (Computer Repair Service). The CRS checks the defect and provides the customer with a repair cost calculation. If the repair cost is not acceptable to the customer, they take the computer home. If the repair cost is acceptable, the process continues.
+
+The customer then takes the computer home and either there is an error detected or not. If there is an error, the process goes back to the CRS (meg_2) for further evaluation. If there is no error, the process moves forward.
+
+The CRS then checks the hardware and software of the computer. If there is a hardware issue, it is repaired. If there is a software issue, it is configured. After the necessary repairs and configurations, the system functionality is tested.
+
+If there are no errors detected during the testing, the repair is considered finished and the customer can collect their computer. If there are errors detected, the process goes back to the CRS (meg_2) for further evaluation.
+
+Finally, once the repair is finished, the customer can collect their computer and the process ends.

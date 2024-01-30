@@ -1,0 +1,16 @@
+The process starts with a guest calling room service. The room service manager takes down the order and submits it to the kitchen. The manager also gives the order to the sommelier and assigns it to the waiter. The waiter prepares the cart and delivers it to the guest. After delivery, the waiter returns to the room service station and may wait for another order or debit the guest's account. Once the waiter has completed their tasks, the process ends.
+
+Here's a more detailed description of the process:
+
+    Guest calls room service.
+    Room service manager takes down the order.
+    Manager submits order ticket to kitchen.
+    Manager gives order to sommelier.
+    Manager assigns order to waiter.
+    Waiter prepares cart.
+    Waiter delivers cart to guest.
+    Waiter returns to room service station.
+    Waiter may wait for another order or debit guest's account.
+    Process ends.
+
+Note: There are two possible paths after step 8:

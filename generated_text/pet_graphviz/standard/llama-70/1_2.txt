@@ -1,0 +1,7 @@
+The process starts with a customer bringing a defective computer to the Customer Service Representative (CSR). The CSR checks the defect and hands out a repair cost calculation. The customer takes the computer home and decides whether the repair is acceptable or not. If the repair is not acceptable, the customer brings the computer back and the process ends. If the repair is acceptable, the customer pays for the repair and the process continues.
+
+Next, the Check Hardware step checks if the hardware is working properly. If there is a problem with the hardware, the Repair Hardware step fixes the issue. The Check Software step ensures that the software is configured correctly. If there is a problem with the software, the Configure Software step makes the necessary changes.
+
+After the software and hardware have been checked and repaired, the Test System Functionality step tests the system to ensure everything is working as expected. If there are no errors, the process ends. If there are errors, the process goes back to the Check Hardware step.
+
+Finally, the Repair Is Finished step indicates that the repair is complete and the process ends.

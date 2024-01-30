@@ -1,0 +1,8 @@
+
+    The claim starts at the beginning (step 1).
+    The claims officer registers the claim and moves it to step 2 for examination.
+    The claims officer examines the claim and passes it on to step 3 (Meg 1).
+    At Meg 1, the claim is reviewed by a senior claims officer who determines whether or not to write a settlement recommendation. If yes, the claim moves to step 5 (Senior Claims Officer Checks Recommendation). Otherwise, it goes back to step 2.
+    In step 5, the senior claims officer reviews the settlement recommendation written by the claims officer and either approves or rejects it. If approved, the claim moves to step 6 (Claimant Receives Settlement); otherwise, it returns to step 3.
+    Once the claim has been settled, it reaches the end of the process (step 7). However, if the senior claims officer does not approve the settlement recommendation, the claim will move back to step 3 (Seg 1) where it will be reassessed before being sent back to the claims officer for further action.
+

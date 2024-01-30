@@ -1,0 +1,10 @@
+The process starts with INQ transmitting a transaction data request. IP checks the request and then answers the question. The process ends with the answer being sent to end_1.
+
+Here's a more detailed description of the process:
+
+    INQ transmits a transaction data request.
+    IP checks the request.
+    IP answers the question.
+    The answer is sent to end_1.
+
+That's a pretty straightforward process! Let me know if you have any questions or need further clarification.

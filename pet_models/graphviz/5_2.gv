@@ -1,0 +1,26 @@
+digraph {
+rankdir=LR;
+"start_1"[shape=circle label=""];
+"end_1"[shape=doublecircle label=""];
+"seg_1"[shape=diamond label="X"];
+"meg_1"[shape=diamond label="X"];
+"Employee submits vacation request"[shape=rectangle];
+"Supervisor reviews request"[shape=rectangle];
+"Supervisor approves request"[shape=rectangle];
+"register the requirement"[shape=rectangle];
+"Return application"[shape=rectangle];
+"generate notification"[shape=rectangle];
+"HR completes management procedures"[shape=rectangle];
+
+"start_1" -> "Employee submits vacation request"
+"Employee submits vacation request" -> "register the requirement";
+"register the requirement" -> "Supervisor reviews request";
+"Supervisor reviews request" -> "Supervisor approves request"; 
+"Supervisor approves request"-> "seg_1"
+"seg_1" -> "Return application"[label="not approved"];
+"seg_1" -> "generate notification"[label="approved"];
+"Return application" -> "meg_1";
+"generate notification" -> "HR completes management procedures"
+"HR completes management procedures" -> "meg_1";
+"meg_1" -> "end_1"
+}

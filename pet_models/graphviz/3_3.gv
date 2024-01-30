@@ -1,0 +1,26 @@
+digraph {
+  rankdir=LR;
+  "start_1"[shape=circle label=""];
+  "end_1"[shape=doublecircle label=""];
+  "meg_1"[shape=diamond label="X"];
+  "seg_1"[shape=diamond label="X"];
+  "claims officer registers claim"[shape=rectangle];
+  "claims officer examines claim"[shape=rectangle];
+  "claims officer writes settlement recommendation"[shape=rectangle];
+  "senior claims officer checks recommendation"[shape=rectangle];
+  "senior claims officer marks the claim"[shape=rectangle];
+ "the claim handling process proceeds"[shape=rectangle];
+ "senior claims officer sends recommendation back"[shape=rectangle];
+
+  "start_1" -> "claims officer registers claim";
+  "claims officer registers claim" -> "claims officer examines claim";
+  "claims officer examines claim" ->   "meg_1";
+  "meg_1" -> "claims officer writes settlement recommendation";
+  "claims officer writes settlement recommendation" -> "senior claims officer checks recommendation";
+  "senior claims officer checks recommendation"-> "senior claims officer marks the claim";
+  "senior claims officer marks the claim" -> "seg_1";
+  "seg_1" -> "the claim handling process proceeds"[label="OK"];
+  "seg_1" -> "senior claims officer sends recommendation back"[label="Not OK"];
+  "senior claims officer sends recommendation back" -> "meg_1";
+  "the claim handling process proceeds" -> "end_1";
+}

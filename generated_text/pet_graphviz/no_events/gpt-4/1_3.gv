@@ -1,0 +1,7 @@
+The process begins when a guest calls for room service. The room-service manager takes down the order and submits an order ticket to the kitchen. The manager then gives an order to the sommelier and assigns the order to the waiter. 
+
+At this point, two tasks are carried out simultaneously: the kitchen and the sommelier start doing their tasks, and the waiter readies the cart. Once both these tasks are completed, the waiter delivers the cart. 
+
+After delivering the cart, the waiter returns to the room service station. Here, there are two possible scenarios. If there is another order, the waiter may wait to do the billing. If there are no other orders, the waiter debits the guest account. 
+
+Regardless of the scenario, the process ends after the waiter has either waited to do the billing or debited the guest account.

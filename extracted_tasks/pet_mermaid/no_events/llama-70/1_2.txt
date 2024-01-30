@@ -1,0 +1,19 @@
+{
+    "amount": 14,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CRM system checks defect",
+        "3. Repair cost calculation provided",
+        "4. Customer accepts cost",
+        "5. Checking the hardware",
+        "6. Repairing found issues",
+        "7. Configuring the software",
+        "8. Testing system functionality",
+        "9. Error detection during repair",
+        "10. Task sent back to gateway",
+        "11. Rechecking hardware and software",
+        "12. Task sent back to gateway",
+        "13. Successful repair completion",
+        "14. Process ends with \"End Event\""
+    ]
+}

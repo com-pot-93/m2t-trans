@@ -1,0 +1,14 @@
+{
+    "amount": 9,
+    "tasks": [
+        "1. Employee submits request",
+        "2. Supervisor reviews request",
+        "3. Supervisor approves request",
+        "4. Request is registered",
+        "5. Notification is generated",
+        "6. HR completes procedures",
+        "7. Process ends",
+        "8. Return application",
+        "9. Generate notification"
+    ]
+}

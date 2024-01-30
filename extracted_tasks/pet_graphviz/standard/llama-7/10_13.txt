@@ -1,0 +1,10 @@
+{
+    "amount": 5,
+    "tasks": [
+        "1. Start 1",
+        "2. INQ transmits data request",
+        "3. IP checks the request",
+        "4. IP answers the question",
+        "5. End 1"
+    ]
+}

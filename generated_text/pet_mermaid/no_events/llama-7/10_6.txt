@@ -1,0 +1,1 @@
+MSPN sends a dismissal request (step 1). Then, MSPO reviews the dismissal (step 2). If MSPO accepts the dismissal, the process continues to step 3 where an exclusive gateway is encountered. If MSPO rejects the dismissal, the process skips straight to step 6. Once at step 6, MSPO confirms the dismissal and the process ends with an endevent (step 7).

@@ -1,0 +1,17 @@
+{
+    "amount": 12,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CRS checks the computer",
+        "3. Provides repair cost estimate",
+        "4. Customer decides on repair",
+        "5. Computer undergoes repairs",
+        "6. Hardware and software configuration",
+        "7. Checking hardware and software",
+        "8. Testing system functionality",
+        "9. Detecting errors during stages",
+        "10. Informing customer of issues",
+        "11. Completing all repair stages",
+        "12. Returning computer to customer."
+    ]
+}

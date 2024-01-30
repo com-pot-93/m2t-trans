@@ -1,0 +1,13 @@
+{
+    "amount": 8,
+    "tasks": [
+        "1. Employee submits request",
+        "2. Supervisor reviews request",
+        "3. Supervisor approves/rejects request",
+        "4. Register approved request",
+        "5. Notify employee of decision",
+        "6. Complete management procedures",
+        "7. Grant approved vacation time",
+        "8. End process if rejected"
+    ]
+}

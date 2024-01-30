@@ -1,0 +1,1 @@
+An employee submits a vacation request, which is registered and forwarded to the supervisor. The supervisor reviews the request and either approves or rejects it. If rejected, the application is returned to the employee. If approved, a notification is generated and the HR department completes the necessary management procedures. Finally, the process ends.

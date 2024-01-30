@@ -1,0 +1,5 @@
+The process begins with a claims officer registering a claim. After the claim is registered, the claims officer examines the claim. Depending on the examination, the process may diverge at point X (represented by "meg_1"). If the claim is valid, the claims officer writes a settlement recommendation. 
+
+This recommendation is then checked by a senior claims officer. After checking the recommendation, the senior claims officer marks the claim. The process diverges again at point X (represented by "seg_1"). If the claim is marked as "OK", the claim handling process proceeds to the next stage. If the claim is marked as "Not OK", the senior claims officer sends the recommendation back for further review. 
+
+If the recommendation is sent back, the process returns to the point where the claims officer writes a settlement recommendation. If the claim handling process proceeds, it moves towards the end of the process. The process ends when the claim handling process is completed.

@@ -1,0 +1,17 @@
+{
+    "amount": 12,
+    "tasks": [
+        "1. Register the claim",
+        "2. Examine the claim",
+        "3. Review claim at Meg 1",
+        "4. Determine settlement recommendation",
+        "5. Move claim to step 5",
+        "6. Review settlement recommendation",
+        "7. Approve or reject recommendation",
+        "8. Move claim to step 6",
+        "9. Settle the claim",
+        "10. End the process",
+        "11. Reassess claim at Seg 1",
+        "12. Send back to claims officer."
+    ]
+}

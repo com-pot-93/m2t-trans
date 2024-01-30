@@ -1,0 +1,16 @@
+{
+    "amount": 11,
+    "tasks": [
+        "1. Start 1 event",
+        "2. MSN sends dismissal request",
+        "3. MSPO reviews dismissal request",
+        "4. Acceptance or rejection of request",
+        "5. Process flows to Segment 1",
+        "6. Decision confirmation",
+        "7. Process ends at End 1",
+        "8. Review of dismissal request",
+        "9. Rejection of request",
+        "10. Confirmation of decision",
+        "11. Communication between MSN and MSPO"
+    ]
+}

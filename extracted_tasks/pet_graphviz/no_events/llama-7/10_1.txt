@@ -1,0 +1,11 @@
+{
+    "amount": 6,
+    "tasks": [
+        "1. \"Start_1\" event occurs",
+        "2. MPON sends dismissal to MPOO",
+        "3. MPOO reviews the dismissal",
+        "4. MPOO decides on dismissal",
+        "5. Megastore receives news",
+        "6. Process ends at \"end_1\""
+    ]
+}

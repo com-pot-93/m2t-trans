@@ -1,0 +1,5 @@
+The process begins with a customer bringing their defective computer to the CR&S department. The CR&S staff then check the computer for defects (step 1). If the computer is deemed repairable, the CR&S staff provide the customer with a repair cost calculation (step 3). If the customer accepts the repair cost, the process proceeds to step 4, where the computer is repaired.
+
+If the computer cannot be repaired due to unacceptable damage, the process ends at step 5. Otherwise, the process continues to step 6, where the repaired computer is handed back to the customer.
+
+Additionally, if the CR&S staff detect an error during the repair process (steps 7-10), they will attempt to fix it before finishing the repair (step 11). If no errors are found, the repair is considered complete (step 12), and the process ends at step 13.

@@ -1,0 +1,15 @@
+{
+    "amount": 10,
+    "tasks": [
+        "1. Registering a claim",
+        "2. Examining the claim",
+        "3. Approving the claim",
+        "4. Writing settlement recommendation",
+        "5. Reviewing the recommendation",
+        "6. Accepting the recommendation",
+        "7. Proceeding claim handling",
+        "8. Ending the process",
+        "9. Sending recommendation back",
+        "10. Processing the claim"
+    ]
+}

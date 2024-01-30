@@ -1,0 +1,1 @@
+The MPON (Managerial Personnel Oversight Committee) sends a dismissal request to the MPOO (Management Personnel Oversight Officer). The MPOO reviews the request and decides whether to oppose or confirm the dismissal. If opposed, the MPOO sends the request back to the MPON. If confirmed, the MPOO sends the confirmation to the MPON. Finally, the process ends.

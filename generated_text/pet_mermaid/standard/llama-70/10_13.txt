@@ -1,0 +1,1 @@
+The INQ transmits a transaction data request. The IP checks the request and then answers the question. The process ends with the IP providing an answer.

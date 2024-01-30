@@ -1,0 +1,5 @@
+The process starts with a guest calling to place an order. The manager takes down the order and submits an order ticket to the kitchen. The manager also gives the order to the sommelier and assigns it to the waiter. At this point, there is a parallel gateway where both the kitchen and the sommelier start working on their tasks, while the waiter readies the cart. Once the kitchen and sommelier tasks are completed, the waiter delivers the cart. After delivering the cart, the waiter returns to the room service station. 
+
+At this stage, there is an exclusive gateway where the waiter may wait to do the billing or proceed to the next step. If the waiter waits, they may do the billing, and if not, they proceed to debit the guest's account. 
+
+There is also an exclusive gateway where the process can either continue with another order or end if there are no other orders. Finally, the process ends with an end event.

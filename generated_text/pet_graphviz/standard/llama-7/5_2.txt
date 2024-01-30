@@ -1,0 +1,17 @@
+Process Overview: Vacation Request Management
+
+The process begins when an employee submits a vacation request (Step 1). Then, the supervisor reviews the request (Step 2). If approved, the request is registered (Step 3), and the employee receives notice of the decision (Step 4). If rejected, the process ends (Step 5).
+
+Steps 3-5 are optional and depend on the outcome of Step 2. If the request is approved, the process continues to Step 6, where the HR department completes any remaining management procedures. Finally, the process concludes with the employee receiving their approved vacation time (Step 7).
+
+Text Summary:
+
+    Employee submits vacation request
+    Supervisor reviews request
+    Supervisor approves or rejects request
+    Register request if approved
+    Notify employee of decision
+    Complete management procedures (optional)
+    Approved requests result in vacation time granted
+    Rejected requests end the process
+

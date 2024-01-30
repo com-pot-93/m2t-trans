@@ -1,0 +1,16 @@
+{
+    "amount": 11,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. CSR checks the defect",
+        "3. CSR calculates repair cost",
+        "4. Customer decides on repair",
+        "5. Customer pays for repair",
+        "6. Check Hardware step",
+        "7. Repair Hardware step",
+        "8. Check Software step",
+        "9. Configure Software step",
+        "10. Test System Functionality step",
+        "11. Repair Is Finished step."
+    ]
+}

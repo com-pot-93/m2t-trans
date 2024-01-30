@@ -1,0 +1,39 @@
+digraph {
+rankdir=LR;
+"start_1"[shape=circle label=""];
+"end_1"[shape=doublecircle label=""];
+"Guest calls"[shape=rectangle];
+"Room-service manager takes down the order"[shape=rectangle];
+ "manager submits an order ticket to kitchen"[shape=rectangle];
+ "manager gives an order to the sommelier"[shape=rectangle];
+ "manager assigns the order to the waiter"[shape=rectangle];
+ "the kitchen and the sommelier are doing their tasks"[shape=rectangle];
+ "the waiter readies cart"[shape=rectangle];
+ "waiter delivers the cart"[shape=rectangle];
+ "waiter returns to the room service station"[shape=rectangle];
+ "waiter may wait to do the billing"[shape=rectangle];
+"waiter debits the guest account"[shape=rectangle];
+"spg_1"[shape=diamond label="AND"];
+"mpg_1"[shape=diamond label="AND"];
+"seg_1"[shape=diamond label="X"];
+"meg_1"[shape=diamond label="X"];
+
+"start_1" -> "Guest calls";
+"Guest calls" -> "Room-service manager takes down the order";
+"Room-service manager takes down the order" -> "manager submits an order ticket to kitchen";
+ "manager submits an order ticket to kitchen" -> "manager gives an order to the sommelier";
+ "manager gives an order to the sommelier" -> "manager assigns the order to the waiter";
+ "manager assigns the order to the waiter"-> "spg_1";
+ "spg_1" -> "the kitchen and the sommelier are doing their tasks";
+"spg_1" -> "the waiter readies cart";
+"the kitchen and the sommelier are doing their tasks" -> "mpg_1";
+"the waiter readies cart"  -> "mpg_1";
+ "mpg_1" -> "waiter delivers the cart";
+"waiter delivers the cart" -> "waiter returns to the room service station";
+"waiter returns to the room service station" -> "seg_1";
+"seg_1" -> "waiter may wait to do the billing"[label="another order"];
+"seg_1" -> "waiter debits the guest account"[label="no other order"];
+"waiter may wait to do the billing" -> "meg_1";
+"waiter debits the guest account" -> "meg_1";
+"meg_1" -> "end_1";
+}

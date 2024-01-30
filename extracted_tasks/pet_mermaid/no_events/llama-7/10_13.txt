@@ -1,0 +1,10 @@
+{
+    "amount": 5,
+    "tasks": [
+        "1. Starting event triggers",
+        "2. INQ transmits data request",
+        "3. IP checks the request",
+        "4. IP provides an answer",
+        "5. Process concludes with ending event"
+    ]
+}

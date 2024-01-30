@@ -1,0 +1,15 @@
+{
+    "amount": 10,
+    "tasks": [
+        "1. Customer brings defective computer",
+        "2. The CRS checks the defect",
+        "3. The CRS hands out repair cost calculation",
+        "4. Customer takes computer home",
+        "5. Check the hardware",
+        "6. Repair the hardware",
+        "7. Checks the software",
+        "8. Configures the software",
+        "9. Test system functionality",
+        "10. Repair is finished"
+    ]
+}

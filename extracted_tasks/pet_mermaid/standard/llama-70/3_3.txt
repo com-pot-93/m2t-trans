@@ -1,0 +1,17 @@
+{
+    "amount": 12,
+    "tasks": [
+        "1. Register claim",
+        "2. Examine claim",
+        "3. Check recommendation",
+        "4. Mark claim",
+        "5. Proceed with claim (if mark is \"ok\")",
+        "6. Send back recommendation (if mark is \"nok\")",
+        "7. Re-examine claim",
+        "8. Update recommendation",
+        "9. Check updated recommendation",
+        "10. Mark claim again",
+        "11. Repeat process (if mark is \"nok\")",
+        "12. Proceed to final step (if mark is \"ok\")"
+    ]
+}

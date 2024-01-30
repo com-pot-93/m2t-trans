@@ -1,0 +1,3 @@
+When a claim is registered by a claims officer (step 1), they examine it (step 2). If the claim is approved, the claims officer writes a settlement recommendation (step 4) which is reviewed by a senior claims officer (step 5). If the recommendation is accepted, the claim handling process proceeds (step 7); otherwise, the senior claims officer sends the recommendation back (step 9).
+
+Once the claim has been processed, the process ends (step 8).

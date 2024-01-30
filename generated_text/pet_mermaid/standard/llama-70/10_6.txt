@@ -1,0 +1,1 @@
+The MSPN sends a dismissal, which is reviewed by the MSPO. The MSPO can either reject or confirm the dismissal. If rejected, the process ends. If confirmed, the MSPO confirms the dismissal and the process ends.

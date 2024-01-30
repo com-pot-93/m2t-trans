@@ -1,0 +1,5 @@
+The process starts at node "start_1," where an event or action occurs that triggers a series of subsequent events and actions. The first connection is from "start_1" to "MSPN sends dismissal," indicating that MSPN (Management Support Process Network) sends some sort of notification or request related to dismissal.
+
+From there, the process flows to "MSPN reviews dismissal," which suggests that MSPN reviews the notification or request received earlier. This leads to two possible outcomes: either "seg_1" (which represents a segment or stage in the process), or "rejection." If "seg_1" is selected, the process moves to "MSPO rejects dismissal," indicating that MSPO (Managing Director's Office) rejects the proposal for some reason. Otherwise, if "rejection" is chosen, the process ends at "meg_1" (which likely refers to the final destination or outcome of the process).
+
+Finally, the process concludes with "meg_1" connected to "end_1," suggesting that the overall process has reached its conclusion.

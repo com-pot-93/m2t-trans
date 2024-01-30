@@ -1,0 +1,16 @@
+The process starts with MSPN sending a dismissal. MSPO reviews the dismissal and then either rejects or confirms it. If MSPO rejects the dismissal, the process goes to meg_1. If MSPO confirms the dismissal, the process also goes to meg_1. The process ends at end_1.
+
+Here's a more detailed description of the process:
+
+    MSPN sends a dismissal.
+    MSPO reviews the dismissal.
+    MSPO either rejects or confirms the dismissal.
+    If MSPO rejects the dismissal, the process goes to meg_1.
+    If MSPO confirms the dismissal, the process also goes to meg_1.
+    The process ends at end_1.
+
+Note: There are two possible paths after step 3:
+
+    Segment 1: Rejection
+    Segment 2: Confirmation
+

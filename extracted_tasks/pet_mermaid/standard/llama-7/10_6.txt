@@ -1,0 +1,15 @@
+{
+    "amount": 10,
+    "tasks": [
+        "1. Start Event",
+        "2. MSPN sends dismissal",
+        "3. MSPO reviews dismissal",
+        "4. Review successful",
+        "5. Exclusive gateway",
+        "6. MSPO accepts dismissal",
+        "7. MSPO rejects dismissal",
+        "8. Process flows to tasks",
+        "9. Process flows to gates",
+        "10. End Event"
+    ]
+}

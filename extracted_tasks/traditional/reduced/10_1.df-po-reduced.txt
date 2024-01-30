@@ -1,0 +1,9 @@
+{
+    "amount": 4,
+    "tasks": [
+        "1. MPON sends the dismissal",
+        "2. MPOO reviews the dismissal",
+        "3. MPOO opposes the dismissal",
+        "4. MPOO confirms the dismissal"
+    ]
+}

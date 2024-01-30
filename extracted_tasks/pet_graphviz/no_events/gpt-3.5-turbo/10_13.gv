@@ -1,0 +1,9 @@
+{
+    "amount": 4,
+    "tasks": [
+        "1. Transmitting the request",
+        "2. Checking the request",
+        "3. Providing an answer",
+        "4. Ending the process"
+    ]
+}

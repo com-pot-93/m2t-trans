@@ -1,0 +1,10 @@
+{
+    "amount": 5,
+    "tasks": [
+        "1. Manager sends dismissal letter",
+        "2. Personnel office reviews letter",
+        "3. Personnel office opposes dismissal",
+        "4. Personnel office confirms dismissal",
+        "5. Employee formally dismissed"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "amount": 6,
+    "tasks": [
+        "1. \"Start Event\"",
+        "2. \"Transmit transaction data\"",
+        "3. \"Check transaction data\"",
+        "4. \"Validate transaction data\"",
+        "5. \"Provide answer\"",
+        "6. \"End Event\""
+    ]
+}

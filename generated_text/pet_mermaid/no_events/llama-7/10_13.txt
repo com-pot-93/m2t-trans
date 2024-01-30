@@ -1,0 +1,1 @@
+The process starts with an starting event (step 0), which triggers INQ to transmit the transaction data request (step 1). IP then checks the request (step 2). After that, IP provides an answer to the question (step 3), and the process concludes with an ending event (step 4).

@@ -1,0 +1,15 @@
+{
+    "amount": 10,
+    "tasks": [
+        "1. Initial step",
+        "2. MSPN sends dismissal for review",
+        "3. MSPO reviews the dismissal",
+        "4. Dismissal is rejected",
+        "5. Goes through seg_1",
+        "6. Proceeds to meg_1 step",
+        "7. Dismissal is confirmed",
+        "8. Goes through seg_1",
+        "9. Proceeds to meg_1 step",
+        "10. Process ends"
+    ]
+}
